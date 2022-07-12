@@ -1,0 +1,361 @@
+/*Home styling Page*/
+body{
+    margin:0;
+    background: #151515;
+}
+#Register{
+    position: absolute;
+        width: 778px;
+        height: 22px;
+        left: 324px;
+        top: 219px;
+    
+        font-family: 'Syne';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 14px;
+        line-height: 22px;
+        text-align: center;
+    
+        color: #FFFFFF;
+    
+        text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+#register-but{
+    color: white;
+}
+#Hot-Pic{
+    /* HOT PICKS FOR TODAY */
+    
+    
+        position: absolute;
+        width: 630px;
+        height: 122px;
+        left: 398px;
+        top: 362px;
+    
+        font-family: 'Syne';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 32px;
+        line-height: 26px;
+        text-align: center;
+    
+        color: #FFFFFF;
+}
+#product1{
+    position: absolute;
+        width: 330px;
+        height: 328px;
+        left: 90px;
+        top: 440px;
+        border-radius: 16px;
+        background: #FFFFFF;
+}
+#pic1{
+    width: 330px;
+    height: 328px;
+    border-radius: 16px;
+}
+
+#name-product1{
+    
+position: absolute;
+width: 244px;
+height: 40px;
+left: 145px;
+top: 785px;
+
+font-family: 'Syne';
+font-style: normal;
+font-weight: 800;
+font-size: 22px;
+line-height: 18px;
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+#button1{
+    position: absolute;
+        font-family: 'Syne';
+            font-style: normal;
+            font-weight: 600;
+            font-size: 25px;
+            line-height: 30px;
+            text-align: center;
+        width: 208px;
+        height: 40px;
+        left: 150px;
+        top: 820px;
+        border-radius: 16PX;
+}
+.timer1{
+    position: absolute;
+        width: 280px;
+        height: 60px;
+        left: 120px;
+        top: 680px;
+    
+        background: #FFFFFF;
+        opacity: 0.7;
+        border-radius: 16px;
+}
+.timer1 p{
+        position: relative;
+        width: 256px;
+        height: 44px;
+        left: 22px;
+        top: -5px;
+    
+        font-family: 'Syne';
+        font-style: normal;
+        font-weight: 800;
+        font-size: 30px;
+        line-height: 36px;
+        text-align: center;
+    
+        color: #000000;
+}
+#product2{
+        position: absolute;
+        width: 330px;
+        height: 328px;
+        left: 562px;
+        top: 440px;
+    
+        background: #FFFFFF;
+        border-radius: 16px;
+}
+#pic2 {
+    width: 330px;
+    height: 328px;
+    border-radius: 16px;
+}
+
+#name-product2{
+    
+    position: absolute;
+    width: 244px;
+    height: 40px;
+    left: 605px;
+    top: 785px;
+    
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 18px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+#button2{
+    position: absolute;
+        font-family: 'Syne';
+        font-style: normal;
+        font-weight: 600;
+        font-size: 25px;
+        line-height: 30px;
+        text-align: center;
+        width: 208px;
+        height: 40px;
+        left: 630px;
+        top: 820px;
+        border-radius: 16PX;
+}
+
+
+
+.timer2
+{
+    position: absolute;
+        width: 280px;
+        height: 60px;
+        left: 590px;
+        top: 680px;
+    
+        background: #FFFFFF;
+        opacity: 0.7;
+        border-radius: 16px;
+}
+.timer2 p {
+    position: relative;
+    width: 256px;
+    height: 44px;
+    left: 590px;
+    top: -5px;
+
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+
+    color:black;
+}
+#product3{
+    position: absolute;
+        width: 340px;
+        height: 318px;
+        left: 1034px;
+        top: 440px;
+    
+        background: black;
+        border-radius: 16px;
+}
+#pic3
+{
+    width: 330px;
+    height: 328px;
+    border-radius: 16px;
+}
+
+#name-product3{
+    
+    position: absolute;
+    width: 244px;
+    height: 40px;
+    left: 1080px;
+    top: 785px;
+    
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 22px;
+    line-height: 18px;
+    text-align: center;
+    
+    color: #FFFFFF;
+    }
+#button3 {
+    position: absolute;
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 25px;
+    line-height: 30px;
+    text-align: center;
+    width: 208px;
+    height: 40px;
+    left: 1110px;
+    top: 820px;
+    border-radius: 16PX;
+}
+.timer3
+{
+    position: absolute;
+        width: 280px;
+        height: 60px;
+        left: 1060px;
+        top: 680px;
+    
+        background:black;
+        opacity: 0.7;
+        border-radius: 16px;
+}
+
+
+.row2{
+    
+position: absolute;
+width: 1440px;
+height: 624px;
+left: 35px;
+top: 1016px;
+
+background: #FFFFFF;
+border-radius: 0px;
+}
+ 
+#ship{
+       position: absolute;
+        width: 280px;
+        height: 307px;
+        left: 164px;
+        top: 240px;
+        background: black;
+        border-radius: 15px;
+        
+}
+.delivery{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 110px;
+    top: 50px;
+    color:white;
+    font-size:50px;
+}
+#shipping-txt{
+    position: absolute;
+    width: 196px;
+    height: 102px;
+    left: 42px;
+    top: 150px;
+
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 34px;
+    text-align: center;
+
+    color: #FFFFFF;
+
+}
+#support{
+        position: absolute;
+        width: 280px;
+        height: 307px;
+        left: 590px;
+        top: 240px;
+        background: black;
+        border-radius: 15px;
+}
+.support24logo{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 110px;
+    top: 50px;
+    color:white;
+    font-size:50px;
+}
+#moneyback{
+        position: absolute;
+        width: 280px;
+        height: 307px;
+        left: 1010px;
+        top: 240px;
+        background: black;
+        border-radius: 15px;
+}
+.moneybacklogo{
+    position: absolute;
+    width: 60px;
+    height: 60px;
+    left: 110px;
+    top: 50px;
+    color:white;
+    font-size:50px;
+}
+.row-headline{
+    position: absolute;
+    width: 1223px;
+    height: 60px;
+    left: 102px;
+    top: 66px;
+
+    font-family:syne;
+    font-style: "bold";
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 50px;
+    text-align: center;
+
+    color: #000000;
+
+}

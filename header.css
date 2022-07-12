@@ -1,0 +1,46 @@
+/*header Navigation Bar*/
+.header{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.header ul li{
+    display: inline-flex;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;  
+    text-decoration: none;
+}
+.category-icon{
+    position:relative;
+    top:-9px;
+    left:-8px;
+    
+
+}
+.header ul li a{
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 18px;
+    text-decoration: none;
+}
+.title{
+    position: absolute;
+    width: 468px;
+    height: 58px;
+    left: 580px;
+    top: 25px;
+
+    font-family: 'Syne';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 40px;
+    line-height: 48px;
+
+    color: #FFFFFF;
+
+    
+   
+}
