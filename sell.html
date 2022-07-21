@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>placing a bid</title>
+    <title>Selling</title>
     <link href="./header.css" rel="stylesheet">
     <link href="./footer.css" rel="stylesheet">
     <link href="./sell-style.css" rel="stylesheet">
@@ -56,16 +56,34 @@
     
     
     <!--Form To list Seller Product-->
-    <p id="capt">FILL THE FORM TO LIST YOUR PRODUCT</p>
-    <form action="" name="" method="post" class="frmseller">
+    <div class="formsell">
+        <p id="capt">FILL THE FORM TO LIST YOUR PRODUCT</p>
+        <form action="" name="" method="post" class="frmseller">
         <select id="categorylist" >
-            <option value="volvo">Volvo</option>
-            <option value="saab">Saab</option>
-            <option value="fiat">Fiat</option>
-            <option value="audi">Audi</option>
+            <option value="">Choose a category</option>
+            <option value="1"></option>
+            <option value="2"></option>
+            <option value="3"></option>
           </select>
-          <input type="number" id="quantity">
-    </form>
+          <br>
+          <input type="number" id="quantity" placeholder="specify the quantity">
+          <br>
+          <p id="uploadimage">Upload image</p>
+          <br>
+          <input type="file" id="image" accept="image/*">
+          <select id="timerlist">
+            <option value="">specify bid time</option>
+            <option value="1"></option>
+            <option value="2"></option>
+          </select>
+          <p id="proddesc">Product Description</p>
+          <br>
+          <textarea id="textarea"></textarea>
+          <br>
+          <input type="submit" id="submit" value="SUBMIT">
+
+        </form>
+    </div>
     
     
 
